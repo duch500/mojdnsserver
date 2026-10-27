@@ -1,0 +1,4 @@
+zone "duch.fyi" {
+    type master;
+    file "/etc/bind/db.duch.fyi";
+};
